@@ -1,0 +1,162 @@
+[
+  {
+    "CodHotel": "H-1",
+    "CodHabitacion": "H-1-DD",
+    "NombreHabitacion": "Doble Normal",
+    "Tarifa": 9000,
+    "CapacidadAdultos": 2,
+    "CapacidadMenores": 0,
+    "CapacidadInfantes": 0,
+    "CantidadHabitaciones": 10
+  },
+  {
+    "CodHotel": "H-1",
+    "CodHabitacion": "H-1-SUI-SS",
+    "NombreHabitacion": "Doble Suite",
+    "Tarifa": 15000,
+    "CapacidadAdultos": 2,
+    "CapacidadMenores": 0,
+    "CapacidadInfantes": 0,
+    "CantidadHabitaciones": 5
+  },
+  {
+    "CodHotel": "H-1",
+    "CodHabitacion": "H-1-FML",
+    "NombreHabitacion": "Familiar",
+    "Tarifa": 12000,
+    "CapacidadAdultos": 2,
+    "CapacidadMenores": 2,
+    "CapacidadInfantes": 1,
+    "CantidadHabitaciones": 10
+  },
+  {
+    "CodHotel": "H-1",
+    "CodHabitacion": "H-1-SUI-FML",
+    "NombreHabitacion": "Familiar Suite",
+    "Tarifa": 24000,
+    "CapacidadAdultos": 2,
+    "CapacidadMenores": 2,
+    "CapacidadInfantes": 1,
+    "CantidadHabitaciones": 5
+  },
+  {
+    "CodHotel": "H-2",
+    "CodHabitacion": "H-2-SMP",
+    "NombreHabitacion": "Simple",
+    "Tarifa": 7000,
+    "CapacidadAdultos": 1,
+    "CapacidadMenores": 0,
+    "CapacidadInfantes": 0,
+    "CantidadHabitaciones": 8
+  },
+  {
+    "CodHotel": "H-2",
+    "CodHabitacion": "H-2-SUI-SMP",
+    "NombreHabitacion": "Simple Suite",
+    "Tarifa": 11000,
+    "CapacidadAdultos": 1,
+    "CapacidadMenores": 0,
+    "CapacidadInfantes": 0,
+    "CantidadHabitaciones": 4
+  },
+  {
+    "CodHotel": "H-2",
+    "CodHabitacion": "H-2-CLS",
+    "NombreHabitacion": "Cl�sica",
+    "Tarifa": 10000,
+    "CapacidadAdultos": 2,
+    "CapacidadMenores": 0,
+    "CapacidadInfantes": 0,
+    "CantidadHabitaciones": 8
+  },
+  {
+    "CodHotel": "H-2",
+    "CodHabitacion": "H-2-PRM",
+    "NombreHabitacion": "Premier",
+    "Tarifa": 15000,
+    "CapacidadAdultos": 2,
+    "CapacidadMenores": 0,
+    "CapacidadInfantes": 0,
+    "CantidadHabitaciones": 4
+  },
+  {
+    "CodHotel": "H-2",
+    "CodHabitacion": "H-2-CLS-FML",
+    "NombreHabitacion": "Cl�sica - Familiar",
+    "Tarifa": 140000,
+    "CapacidadAdultos": 2,
+    "CapacidadMenores": 2,
+    "CapacidadInfantes": 1,
+    "CantidadHabitaciones": 7
+  },
+  {
+    "CodHotel": "H-3",
+    "CodHabitacion": "H-3-DD-SUP",
+    "NombreHabitacion": "Doble Superior",
+    "Tarifa": 16000,
+    "CapacidadAdultos": 2,
+    "CapacidadMenores": 2,
+    "CapacidadInfantes": 2,
+    "CantidadHabitaciones": 5
+  },
+  {
+    "CodHotel": "H-3",
+    "CodHabitacion": "H-3-SUP",
+    "NombreHabitacion": "Superior",
+    "Tarifa": 13000,
+    "CapacidadAdultos": 2,
+    "CapacidadMenores": 0,
+    "CapacidadInfantes": 0,
+    "CantidadHabitaciones": 5
+  },
+  {
+    "CodHotel": "H-3",
+    "CodHabitacion": "H-3-SUI-PRE",
+    "NombreHabitacion": "Suite Prestige",
+    "Tarifa": 20000,
+    "CapacidadAdultos": 2,
+    "CapacidadMenores": 0,
+    "CapacidadInfantes": 0,
+    "CantidadHabitaciones": 3
+  },
+  {
+    "CodHotel": "H-4",
+    "CodHabitacion": "H-4-IND-CLS",
+    "NombreHabitacion": "Indiviudal Cl�sica",
+    "Tarifa": 9000,
+    "CapacidadAdultos": 1,
+    "CapacidadMenores": 0,
+    "CapacidadInfantes": 0,
+    "CantidadHabitaciones": 5
+  },
+  {
+    "CodHotel": "H-4",
+    "CodHabitacion": "H-4-DD-CLS",
+    "NombreHabitacion": "Doble Cl�sica",
+    "Tarifa": 13000,
+    "CapacidadAdultos": 2,
+    "CapacidadMenores": 0,
+    "CapacidadInfantes": 0,
+    "CantidadHabitaciones": 5
+  },
+  {
+    "CodHotel": "H-4",
+    "CodHabitacion": "H-4-FML-CLS",
+    "NombreHabitacion": "Familiar Cl�sica",
+    "Tarifa": 15000,
+    "CapacidadAdultos": 2,
+    "CapacidadMenores": 2,
+    "CapacidadInfantes": 1,
+    "CantidadHabitaciones": 4
+  },
+  {
+    "CodHotel": "H-4",
+    "CodHabitacion": "H-4-DD-SUI",
+    "NombreHabitacion": "Doble Suite",
+    "Tarifa": 17000,
+    "CapacidadAdultos": 2,
+    "CapacidadMenores": 0,
+    "CapacidadInfantes": 0,
+    "CantidadHabitaciones": 3
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "CodHotel": "H-1",
+    "NombreAlojamiento": "Hotel Este",
+    "CodCiudad": "BSA",
+    "Direccion": "Av. Libertador, 111, 1458, 58987, 49741",
+    "Calificacion": 3,
+    "CodHabitacion": ""
+  },
+  {
+    "CodHotel": "H-2",
+    "NombreAlojamiento": "Hotel Sur",
+    "CodCiudad": "BRC",
+    "Direccion": "Av. Exequiel Bustillo, 2598, 15879, 65874",
+    "Calificacion": 4,
+    "CodHabitacion": ""
+  },
+  {
+    "CodHotel": "H-3",
+    "NombreAlojamiento": "Hotel Norte",
+    "CodCiudad": "SLT",
+    "Direccion": "Av. Entre Ríos, 9845, 98784, 54879",
+    "Calificacion": 3,
+    "CodHabitacion": ""
+  },
+  {
+    "CodHotel": "H-4",
+    "NombreAlojamiento": "Hotel Oeste",
+    "CodCiudad": "MDZ",
+    "Direccion": "Av. San Martín, 1589, 75418, 54387",
+    "Calificacion": 5,
+    "CodHabitacion": ""
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "CodHabitacion": "H-1-DD",
+    "Fecha": "1/6/2023",
+    "CantidadDisponible": 9
+  },
+  {
+    "CodHabitacion": "H-1-DD",
+    "Fecha": "2/6/2023",
+    "CantidadDisponible": 9
+  },
+  {
+    "CodHabitacion": "H-1-DD",
+    "Fecha": "3/6/2023",
+    "CantidadDisponible": 10
+  },
+  {
+    "CodHabitacion": "H-1-DD",
+    "Fecha": "4/6/2023",
+    "CantidadDisponible": 10
+  },
+  {
+    "CodHabitacion": "H-1-SUI-SS",
+    "Fecha": "1/6/2023",
+    "CantidadDisponible": 3
+  },
+  {
+    "CodHabitacion": "H-1-SUI-SS",
+    "Fecha": "2/6/2023",
+    "CantidadDisponible": 4
+  },
+  {
+    "CodHabitacion": "H-1-SUI-SS",
+    "Fecha": "3/6/2023",
+    "CantidadDisponible": 5
+  },
+  {
+    "CodHabitacion": "H-1-SUI-SS",
+    "Fecha": "4/6/2023",
+    "CantidadDisponible": 5
+  },
+  {
+    "CodHabitacion": "H-1-FML",
+    "Fecha": "1/6/2023",
+    "CantidadDisponible": 10
+  },
+  {
+    "CodHabitacion": "H-1-FML",
+    "Fecha": "2/6/2023",
+    "CantidadDisponible": 8
+  },
+  {
+    "CodHabitacion": "H-1-FML",
+    "Fecha": "3/6/2023",
+    "CantidadDisponible": 8
+  },
+  {
+    "CodHabitacion": "H-1-FML",
+    "Fecha": "4/6/2023",
+    "CantidadDisponible": 9
+  },
+  {
+    "CodHabitacion": "H-1-SUI-FML",
+    "Fecha": "1/6/2023",
+    "CantidadDisponible": 5
+  },
+  {
+    "CodHabitacion": "H-1-SUI-FML",
+    "Fecha": "2/6/2023",
+    "CantidadDisponible": 4
+  },
+  {
+    "CodHabitacion": "H-1-SUI-FML",
+    "Fecha": "3/6/2023",
+    "CantidadDisponible": 3
+  },
+  {
+    "CodHabitacion": "H-1-SUI-FML",
+    "Fecha": "4/6/2023",
+    "CantidadDisponible": 4
+  },
+  {
+    "CodHabitacion": "H-2-SMP",
+    "Fecha": "1/6/2023",
+    "CantidadDisponible": 8
+  },
+  {
+    "CodHabitacion": "H-2-SMP",
+    "Fecha": "2/6/2023",
+    "CantidadDisponible": 6
+  },
+  {
+    "CodHabitacion": "H-2-SMP",
+    "Fecha": "3/6/2023",
+    "CantidadDisponible": 6
+  },
+  {
+    "CodHabitacion": "H-2-SMP",
+    "Fecha": "4/6/2023",
+    "CantidadDisponible": 5
+  },
+  {
+    "CodHabitacion": "H-2-SUI-SMP",
+    "Fecha": "1/6/2023",
+    "CantidadDisponible": 4
+  },
+  {
+    "CodHabitacion": "H-2-SUI-SMP",
+    "Fecha": "2/6/2023",
+    "CantidadDisponible": 3
+  },
+  {
+    "CodHabitacion": "H-2-SUI-SMP",
+    "Fecha": "3/6/2023",
+    "CantidadDisponible": 4
+  },
+  {
+    "CodHabitacion": "H-2-SUI-SMP",
+    "Fecha": "4/6/2023",
+    "CantidadDisponible": 4
+  },
+  {
+    "CodHabitacion": "H-2-CLS",
+    "Fecha": "1/6/2023",
+    "CantidadDisponible": 8
+  },
+  {
+    "CodHabitacion": "H-2-CLS",
+    "Fecha": "2/6/2023",
+    "CantidadDisponible": 5
+  },
+  {
+    "CodHabitacion": "H-2-CLS",
+    "Fecha": "3/6/2023",
+    "CantidadDisponible": 5
+  },
+  {
+    "CodHabitacion": "H-2-CLS",
+    "Fecha": "4/6/2023",
+    "CantidadDisponible": 5
+  },
+  {
+    "CodHabitacion": "H-2-PRM",
+    "Fecha": "1/6/2023",
+    "CantidadDisponible": 4
+  },
+  {
+    "CodHabitacion": "H-2-PRM",
+    "Fecha": "2/6/2023",
+    "CantidadDisponible": 1
+  },
+  {
+    "CodHabitacion": "H-2-PRM",
+    "Fecha": "3/6/2023",
+    "CantidadDisponible": 1
+  },
+  {
+    "CodHabitacion": "H-2-PRM",
+    "Fecha": "4/6/2023",
+    "CantidadDisponible": 1
+  },
+  {
+    "CodHabitacion": "H-2-CLS-FML",
+    "Fecha": "1/6/2023",
+    "CantidadDisponible": 5
+  },
+  {
+    "CodHabitacion": "H-2-CLS-FML",
+    "Fecha": "2/6/2023",
+    "CantidadDisponible": 3
+  },
+  {
+    "CodHabitacion": "H-2-CLS-FML",
+    "Fecha": "3/6/2023",
+    "CantidadDisponible": 5
+  },
+  {
+    "CodHabitacion": "H-2-CLS-FML",
+    "Fecha": "4/6/2023",
+    "CantidadDisponible": 5
+  },
+  {
+    "CodHabitacion": "H-3-DD-SUP",
+    "Fecha": "1/6/2023",
+    "CantidadDisponible": 5
+  },
+  {
+    "CodHabitacion": "H-3-DD-SUP",
+    "Fecha": "2/6/2023",
+    "CantidadDisponible": 2
+  },
+  {
+    "CodHabitacion": "H-3-DD-SUP",
+    "Fecha": "3/6/2023",
+    "CantidadDisponible": 2
+  },
+  {
+    "CodHabitacion": "H-3-DD-SUP",
+    "Fecha": "4/6/2023",
+    "CantidadDisponible": 2
+  },
+  {
+    "CodHabitacion": "H-3-SUP",
+    "Fecha": "1/6/2023",
+    "CantidadDisponible": 5
+  },
+  {
+    "CodHabitacion": "H-3-SUP",
+    "Fecha": "2/6/2023",
+    "CantidadDisponible": 4
+  },
+  {
+    "CodHabitacion": "H-3-SUP",
+    "Fecha": "3/6/2023",
+    "CantidadDisponible": 4
+  },
+  {
+    "CodHabitacion": "H-3-SUP",
+    "Fecha": "4/6/2023",
+    "CantidadDisponible": 4
+  },
+  {
+    "CodHabitacion": "H-3-SUI-PRE",
+    "Fecha": "1/6/2023",
+    "CantidadDisponible": 3
+  },
+  {
+    "CodHabitacion": "H-3-SUI-PRE",
+    "Fecha": "2/6/2023",
+    "CantidadDisponible": 2
+  },
+  {
+    "CodHabitacion": "H-3-SUI-PRE",
+    "Fecha": "3/6/2023",
+    "CantidadDisponible": 2
+  },
+  {
+    "CodHabitacion": "H-3-SUI-PRE",
+    "Fecha": "4/6/2023",
+    "CantidadDisponible": 3
+  },
+  {
+    "CodHabitacion": "H-4-IND-CLS",
+    "Fecha": "1/6/2023",
+    "CantidadDisponible": 5
+  },
+  {
+    "CodHabitacion": "H-4-IND-CLS",
+    "Fecha": "2/6/2023",
+    "CantidadDisponible": 2
+  },
+  {
+    "CodHabitacion": "H-4-IND-CLS",
+    "Fecha": "3/6/2023",
+    "CantidadDisponible": 2
+  },
+  {
+    "CodHabitacion": "H-4-IND-CLS",
+    "Fecha": "4/6/2023",
+    "CantidadDisponible": 2
+  },
+  {
+    "CodHabitacion": "H-4-DD-CLS",
+    "Fecha": "1/6/2023",
+    "CantidadDisponible": 5
+  },
+  {
+    "CodHabitacion": "H-4-DD-CLS",
+    "Fecha": "2/6/2023",
+    "CantidadDisponible": 3
+  },
+  {
+    "CodHabitacion": "H-4-DD-CLS",
+    "Fecha": "3/6/2023",
+    "CantidadDisponible": 3
+  },
+  {
+    "CodHabitacion": "H-4-DD-CLS",
+    "Fecha": "4/6/2023",
+    "CantidadDisponible": 4
+  },
+  {
+    "CodHabitacion": "H-4-FML-CLS",
+    "Fecha": "1/6/2023",
+    "CantidadDisponible": 5
+  },
+  {
+    "CodHabitacion": "H-4-FML-CLS",
+    "Fecha": "2/6/2023",
+    "CantidadDisponible": 2
+  },
+  {
+    "CodHabitacion": "H-4-FML-CLS",
+    "Fecha": "3/6/2023",
+    "CantidadDisponible": 2
+  },
+  {
+    "CodHabitacion": "H-4-FML-CLS",
+    "Fecha": "4/6/2023",
+    "CantidadDisponible": 2
+  },
+  {
+    "CodHabitacion": "H-4-DD-SUI",
+    "Fecha": "1/6/2023",
+    "CantidadDisponible": 3
+  },
+  {
+    "CodHabitacion": "H-4-DD-SUI",
+    "Fecha": "2/6/2023",
+    "CantidadDisponible": 2
+  },
+  {
+    "CodHabitacion": "H-4-DD-SUI",
+    "Fecha": "3/6/2023",
+    "CantidadDisponible": 2
+  },
+  {
+    "CodHabitacion": "H-4-DD-SUI",
+    "Fecha": "4/6/2023",
+    "CantidadDisponible": 2
+  }
+]
